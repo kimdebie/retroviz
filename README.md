@@ -2,7 +2,7 @@
 RETRO-VIZ is a method for estimating and explaining the error in regression problems.
 
 ## Install
-retroviz can be installed from PyPI using `pip install retroviz`.
+retroviz can be installed from [PyPI](https://pypi.org/project/retroviz/) using `pip install retroviz`.
 
 ## Documentation
 
