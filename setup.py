@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="retroviz",
-    version="0.4",
+    version="0.6",
     author="Kim de Bie",
     author_email="kimdebie@outlook.com",
     description="RETRO-VIZ",
