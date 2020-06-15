@@ -1,0 +1,7 @@
+__pycache__/
+.ipynb_checkpoints
+.pypirc
+build/
+dist/
+retroviz.egg-info
+.ipynb_checkpoints
